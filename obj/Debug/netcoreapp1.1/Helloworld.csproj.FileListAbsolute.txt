@@ -1,0 +1,8 @@
+/Users/lourencoabelferreirarodriguesantunes/Documents/CursosOnline/VSCODE_C#/Helloworld/bin/Debug/netcoreapp1.1/Helloworld.deps.json
+/Users/lourencoabelferreirarodriguesantunes/Documents/CursosOnline/VSCODE_C#/Helloworld/bin/Debug/netcoreapp1.1/Helloworld.runtimeconfig.json
+/Users/lourencoabelferreirarodriguesantunes/Documents/CursosOnline/VSCODE_C#/Helloworld/bin/Debug/netcoreapp1.1/Helloworld.runtimeconfig.dev.json
+/Users/lourencoabelferreirarodriguesantunes/Documents/CursosOnline/VSCODE_C#/Helloworld/bin/Debug/netcoreapp1.1/Helloworld.dll
+/Users/lourencoabelferreirarodriguesantunes/Documents/CursosOnline/VSCODE_C#/Helloworld/bin/Debug/netcoreapp1.1/Helloworld.pdb
+/Users/lourencoabelferreirarodriguesantunes/Documents/CursosOnline/VSCODE_C#/Helloworld/obj/Debug/netcoreapp1.1/Helloworld.AssemblyInfo.cs
+/Users/lourencoabelferreirarodriguesantunes/Documents/CursosOnline/VSCODE_C#/Helloworld/obj/Debug/netcoreapp1.1/Helloworld.dll
+/Users/lourencoabelferreirarodriguesantunes/Documents/CursosOnline/VSCODE_C#/Helloworld/obj/Debug/netcoreapp1.1/Helloworld.pdb
