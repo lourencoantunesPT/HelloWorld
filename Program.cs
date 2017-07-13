@@ -9,9 +9,9 @@ namespace Helloworld
         
         static Person[] peopleArray = new Person[3]
         {
-            new Person("John", "Smith"),
-            new Person("Jim", "Johnson"),
-            new Person("Sue", "Rabon"),
+            new Person("John", "Smith", 10),
+            new Person("Jim", "Johnson", 20),
+            new Person("Sue", "Rabon",30),
         };
 
 
@@ -36,7 +36,7 @@ namespace Helloworld
 
         People peopleList = new People(peopleArray);
         foreach (Person p in peopleList)
-            Console.WriteLine(p.firstName + " " + p.lastName);
+            Console.WriteLine(p.firstName + " " + p.lastName+ " " + p.idade);
         }
 
 
